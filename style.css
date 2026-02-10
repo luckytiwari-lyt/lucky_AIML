@@ -1,0 +1,9 @@
+div{
+    text-align: center;
+    color: rgb(205, 47, 115);
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    color: darkcyan;
+}
